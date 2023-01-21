@@ -7,3 +7,6 @@ The project includes
 <li> Deleting property</li>
 <li> Searching through the properties</li>
 </ul>
+
+Don't be mislead by the single file 😉
+Enjoy 
